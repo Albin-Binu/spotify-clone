@@ -12,3 +12,4 @@ This project is a starting point for a Flutter application.
 ### 2 - themes of application
 ### 3 - assets & fonts folders - defining in pubspec
 ### 4 - get started page 
+### 5 - choose mode logic
